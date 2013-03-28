@@ -1,4 +1,4 @@
-gimpify
+GIMPify
 =======
 
 Bringing humans to GIMP
